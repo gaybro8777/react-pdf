@@ -109,7 +109,10 @@ const Borders = {
       left + rtl,
       top,
     );
-
+    this.root.instance.closePath();
+    this.root.instance.lineWidth(lw);
+    this.root.instance.strokeColor('green');
+    this.root.instance.stroke();
     this.root.instance.closePath();
     this.root.instance.clip();
 
