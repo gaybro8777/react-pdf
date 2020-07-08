@@ -42,7 +42,7 @@
     "lodash.groupby": "^4.6.0",
     "lodash.isfunction": "^3.0.8",
     "lodash.isnil": "^4.0.0",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "lodash.pick": "^4.4.0",
     "lodash.topairsin": "^4.3.0",
     "media-engine": "^1.0.3",
